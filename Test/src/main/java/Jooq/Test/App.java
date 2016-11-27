@@ -23,7 +23,7 @@ public class App {
 			String firstName = r.getValue(AUTHOR.FIRST_NAME);
 			String lastName = r.getValue(AUTHOR.LAST_NAME);
 
-			System.out.println("ID: " + id + " first name: " + firstName + " last name: " + lastName);
+			System.out.println("ID: " + id + " first name: " + firstName + " last name: " + lastName +"\n");
 		}
 	}
 	
@@ -50,8 +50,8 @@ public class App {
 			Random rand = new Random();
 			
 			//Foo inserted values, change it at will
-			String fName = "Clac";
-			String lName = "Sonne";
+			String fName = "Ella";
+			String lName = "Dupot";
 			String duplicateIDLName="Doe";
 			String duplicateIDFName="John";
 			

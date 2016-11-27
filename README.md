@@ -1,4 +1,10 @@
 # JooqTest
+
+This is a simple example of JOOQ application.
+
+JOOQ allows to create Java Models from any SQL database to persist data, hence it is almost instantly possible to manipulate and persist data from java code to any SQL database.
+Follow the procedure described below and explore the different hand written and generated files to understand why JOOQ is probably far better than hibernate.
+
 Just Open it as a Maven project in Eclipse or whatever. the Test folder is the Maven root folder
 The MYSQL Database is running on a Raspberry pi 2, so it can sometimes be offline (if internet or electricity is down :/)
 
