@@ -7,7 +7,7 @@ import org.jooq.util.GenerationTool;
 
 /**
  * run this program to generate JOOQ classes from the BDD
- * BE CAREFUL : The AuthorReecord.java file will have errors due to @override annotations. Just remove them and you should be fine.
+ * BE CAREFUL : The AuthorRecord.java in test.generated.tables.records package file can have errors due to @override annotations. Just remove them and you should be fine.
  *
  */
 public class GenerateJOOQ {
